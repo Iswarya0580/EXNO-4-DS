@@ -1,4 +1,6 @@
 # EXNO:4-DS
+# Developed By: Iswarya P
+# Reg no:212223230082
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
@@ -24,6 +26,18 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/4019b8a1-dd4c-4032-acb6-731288793f7d)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/7f86df0f-2df1-48a9-ad61-9b46904c7edf)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/9b1fdf84-656a-4e7c-bd63-e42a87c3b2fe)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/b3ca1c6b-d255-4398-996b-0722ddf37945)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/68873a24-af79-49bf-9653-0c1d815e6f77)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/55eed850-6edc-4cb9-9279-2e1dc63bce65)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/5cecabfd-a579-4612-8056-1e63129d65d6)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/ab2c84ee-7c82-49bc-9a0c-c3655cba3bb1)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/25b5a7e1-ed82-41b8-ba98-00a496fdd7fc)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/4eb0cc7b-5d85-4e9a-a20d-9e971f7ef7e0)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/bae0e417-9f39-4bbd-a3bd-d1f8e616b46c)
+![image](https://github.com/Iswarya0580/EXNO-4-DS/assets/149989171/51ef3246-20c8-4eab-9fa0-5f9b86dad5e4)
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+Thus the Feature selection process was executed successfully.
